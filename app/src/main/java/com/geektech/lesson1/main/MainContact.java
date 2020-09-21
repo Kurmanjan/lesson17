@@ -1,4 +1,4 @@
-package com.geektech.lesson1.main;
+ package com.geektech.lesson1.main;
 
 public interface MainContact  {
 
